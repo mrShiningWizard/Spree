@@ -1,0 +1,8 @@
+
+    Remove the gem from the Gemfile and run bundle
+    Remove the mount RailsAdmin::Engine => ... from your config/routes.rb
+    Remove config/initializers/rails_admin.rb
+	
+Installed Ruby Racer - Javascript runtime
+
+https://github.com/spree/spree - installed Spree - ecommerce extension for payment processing.

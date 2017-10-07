@@ -1,0 +1,7 @@
+{
+  "name": "cosq_mvp",
+  "private": true,
+  "dependencies": {
+    "rails-ujs": "^5.1.4"
+  }
+}
